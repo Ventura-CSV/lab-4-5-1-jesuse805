@@ -8,6 +8,7 @@ def main():
     """
     numbers = []
     count = 0
+    total = 0
     
     while count < 5:
         numRan = random.randint(0,100)
