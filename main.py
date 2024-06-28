@@ -13,7 +13,7 @@ def main():
     while count < 5:
         numRan = random.randint(0,100)
         numbers.append(numRan)
-        total
+        total = numRan
         count += 1
         
     
